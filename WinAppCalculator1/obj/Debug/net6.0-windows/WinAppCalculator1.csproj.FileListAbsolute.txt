@@ -1,0 +1,17 @@
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\bin\Debug\net6.0-windows\WinAppCalculator1.exe
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\bin\Debug\net6.0-windows\WinAppCalculator1.deps.json
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\bin\Debug\net6.0-windows\WinAppCalculator1.runtimeconfig.json
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\bin\Debug\net6.0-windows\WinAppCalculator1.dll
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\bin\Debug\net6.0-windows\WinAppCalculator1.pdb
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.csproj.AssemblyReference.cache
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\DesktopApp1.Form1.resources
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.csproj.GenerateResource.cache
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.GeneratedMSBuildEditorConfig.editorconfig
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.AssemblyInfoInputs.cache
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.AssemblyInfo.cs
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.csproj.CoreCompileInputs.cache
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.dll
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\refint\WinAppCalculator1.dll
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.pdb
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\WinAppCalculator1.genruntimeconfig.cache
+\\edu.local\public\studenthomes\25300662\Desktop\vs2022\WindowsFormsApp1\WinAppCalculator1\obj\Debug\net6.0-windows\ref\WinAppCalculator1.dll
